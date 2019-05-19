@@ -1,4 +1,4 @@
-# MCPA (Mobile Traffic Critical Path Analysis)
+# MCPA (Mobile Critical Path Analysis)
 
 Open dataset of MCPA paper "Tackling Mobile Traffic Critical Path Analysis With Passive and Active Measurements", to appear in TMA 2019 conference.
 
